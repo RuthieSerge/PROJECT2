@@ -39,7 +39,7 @@ nav ul li a:hover{
 /* nav end */
 
 header{
-    background-image: url(./fib.jpg);
+    background-image: url('../images2/fib.jpg');
     background-repeat:no-repeat ;
     background-size: cover;
     height: 120vh; 
